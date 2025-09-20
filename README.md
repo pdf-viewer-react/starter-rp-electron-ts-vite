@@ -1,6 +1,6 @@
-# React PDF Starter Toolkit in React vite , Electron and TypeScript
+# React PDF Starter Toolkit in React, Electron, TypeScript and Vite
 
-Welcome to the React PDF Starter Toolkit! This repository provides a comprehensive guide on integrating React PDF with React, Electron and TypeScript. It showcases how React PDF can be integrated and rendered as part of a React.js project.
+Welcome to the React PDF Starter Toolkit! This repository provides a comprehensive guide on integrating React PDF with React, Electron, TypeScript and Vite. It showcases how React PDF can be integrated and rendered as part of a React.js project.
 
 ## Table of Contents
 
